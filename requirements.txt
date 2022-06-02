@@ -1,4 +1,4 @@
-﻿Flask
+Flask
 gunicorn
 Jinja2
 Werkzeug
